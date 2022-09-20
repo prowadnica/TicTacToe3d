@@ -1,3 +1,7 @@
+// Copyright (C) Dawid Pieper
+// This file is a part of TicTacToe3d game project created by Prowadnica Foundation
+// This project is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license
+
 $fieldWidth=15.2;
 $fieldHeight=3;
 $borderWidth=2.8;
